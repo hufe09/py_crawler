@@ -1,0 +1,3 @@
+[submodule "maoyan_top100"]
+	path = maoyan_top100
+	url = git@github.com:hufe09/maoyan_top100.git
